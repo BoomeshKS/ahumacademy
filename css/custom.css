@@ -479,7 +479,7 @@ header.main-header .header-sticky.active .navbar{
 }
 
 .navbar-brand img{
-	width: 120px; 
+	width: 100px; 
 	position: absolute;
 }
 
@@ -4723,8 +4723,8 @@ background: linear-gradient(to right, #f8f9fa, #dbe2ef);
     }
 
 	.navbar-brand img{
-		width: 90px;
-		margin-top: 10px;
+		width: 75px;
+		margin-top: 17px;
 	}
 }
 
